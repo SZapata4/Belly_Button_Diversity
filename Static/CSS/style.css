@@ -1,0 +1,36 @@
+.panel-primary > .panel-heading-custom {
+    background: #7fd5eb; color: rgb(14, 14, 14);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+.jumbotron {
+	background-image: url("../images/header.png");
+	background-size: 100%;
+    text-align: center;   
+}
+
+.jumbotron > h1 {
+    text-shadow: 1px 1px 2px black;
+}
+
+.bg-1 { 
+    background-color: #889794; 
+    color: #fafafa;
+}
+
+.panel-body {
+    background: #889794; color: rgb(14, 14, 14);
+}
+
+.well {
+    background: #889794; color: rgb(14, 14, 14);
+}
+
+.center {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
